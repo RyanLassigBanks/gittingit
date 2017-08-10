@@ -1,4 +1,2 @@
 overwrite
-blah
-blah blah
-after add
+hi
